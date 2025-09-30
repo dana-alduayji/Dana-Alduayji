@@ -1,52 +1,52 @@
-# 👋 Hi, I'm Dana Alduayji  
+## Hi there! 👋
 
-🎓 **Computer Science Graduate** (First Class Honors, Qassim University) with a strong foundation in **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision**. I’m passionate about building intelligent systems that solve real-world problems and make technology more impactful.  
+I'm **Dana Alduayji**, a passionate developer based in **Saudi Arabia**. I love exploring new technologies and creating innovative AI solutions to make life easier!
 
----
+## About Me
 
-## 🚀 About Me  
-- 🌍 Based in Riyadh, Saudi Arabia  
-- 💡 Experienced in **data engineering**, **automation**, and **AI-driven applications**  
-- 🛠️ Skilled in **Python, PyTorch, scikit-learn, SQL, Flask, PySpark, Jenkins, and Docker**  
-- 🧠 Interested in **AI research, NLP, and real-world ML solutions**  
-- 🤝 Enjoy working in collaborative environments with adaptability and strong analytical skills  
+I'm an AI engineer with a keen interest in machine learning and deep learning. I specialize in creating applications that leverage data to provide meaningful insights. My current projects reflect my commitment to developing new AI solutions.
 
----
+## Skills & Technologies
 
-## 💼 Experience  
-**Data Engineer Intern @ Saudi Data and AI Authority (SDAIA)** *(Jun 2024 – Aug 2024)*  
-- Built an end-to-end automated **data integration pipeline** using Jenkins, Flask, and PySpark  
-- Automated ETL processes, validated schemas, and deployed solutions on **DigitalOcean with Docker**  
+flask,docker,pytorch,sklearn,mysql,py,github
 
----
+## Top Projects
 
-## 🏆 Projects  
-- **SAMKARAH: AI-Powered Vehicle Damage Assessment** *(Best Graduation Project Award)*  
-  - Developed a smart system to detect vehicle damage, estimate repair costs, and recommend repair shops  
-  - Built deep learning models for **image-based damage detection**  
-  - Delivered a complete pipeline with a **mobile app** and **Arabic PDF report generator**  
+- [Weather Classification using ML/DL](https://github.com/dana-alduayji/Weather-Classification-using-ML-DL-)
+  A machine learning project comparing Random Forest and Neural Network models for weather classification. ⭐️ 0 | Language: Jupyter Notebook
 
----
+- [Resume Text Classifier](https://github.com/dana-alduayji/resume-text-classifier)
+  A machine learning project for resume classification using text processing. ⭐️ 0 | Language: Jupyter Notebook
 
-## 📚 Courses & Certifications  
-- 🧑‍💻 **Introduction to AI** – KAUST Academy & SDAIA (2024)  
-- 🤖 **Advanced Artificial Intelligence** – KAUST Academy & SDAIA (2024)  
-- 🔥 **Building Transformer-Based NLP Applications** – NVIDIA (2025)  
+- [Instructor Info Chatbot](https://github.com/dana-alduayji/instructor-info-chatbot)
+  A RAG-powered chatbot that answers questions about instructors using CSV data. ⭐️ 0 | Language: Jupyter Notebook
 
----
+- [Pose and Pass Hand Gesture Detection](https://github.com/dana-alduayji/Pose-and-Pass-hand-gesture-detection)
+  A real-time gesture recognition game using Python, OpenCV, and MediaPipe. ⭐️ 0 | Language: Python
 
-## ⚡ Skills  
-**Programming & Data Analysis**: Python, Pandas, NumPy, scikit-learn, PyTorch, SQL  
-**Machine Learning & AI**: Data Analysis, Deep Learning, NLP, Computer Vision  
-**DevOps & Deployment**: Docker, Jenkins, Flask, DigitalOcean  
-**Professional**: Fast Learner, Multitasking, Teamwork, Leadership  
+- [Twallam SE Documents](https://github.com/dana-alduayji/Twallam-SE-Documents)
+  An online platform suggesting activities in Saudi cities based on your destination and budget. ⭐️ 0 | Language: Not specified
 
----
+## GitHub Stats
 
-## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/dana-al-duayji/)  
-- 💻 [GitHub](https://github.com/dana-alduayji)  
-- ✉️ [Email](mailto:dana.alduayji@outlook.com)  
+🌟 **Public Repositories**: 6  
+👥 **Followers**: 0  
+➡️ **Following**: 0  
 
----
-✨ Always learning, always building. Let’s connect and create something impactful!  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dana-alduayji&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Updated README.md in [Weather Classification using ML/DL](https://github.com/dana-alduayji/Weather-Classification-using-ML-DL-)
+- Created [resume-text-classifier](https://github.com/dana-alduayji/resume-text-classifier) repository
+- Created [instructor-info-chatbot](https://github.com/dana-alduayji/instructor-info-chatbot) repository
+- Created [Pose and Pass Hand Gesture Detection](https://github.com/dana-alduayji/Pose-and-Pass-hand-gesture-detection) repository
+- Created [Twallam SE Documents](https://github.com/dana-alduayji/Twallam-SE-Documents) repository
+
+## Latest Blog Posts
+
+Currently, I do not have any blog posts. Stay tuned for updates!
+
+## Connect with Me
+
+{"linkedin":"https://www.linkedin.com/in/dana-al-duayji/"}
